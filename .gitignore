@@ -1,9 +1,9 @@
-.env
 .log
 logs.log
+.env
 tests/
 desafio_data/bibliotecas/
 desafio_data/cines/
 desafio_data/museos/
 desafio_data/transform/
-desafio_data/__pycache__
+desafio_data/__pycache__/
