@@ -6,6 +6,12 @@ authors = ["Tu_Nombre <tu_mail@tu_mail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.4.3"
+DateTime = "^4.5"
+python-decouple = "^3.6"
+SQLAlchemy = "^1.4.39"
+psycopg2-binary = "^2.9.3"
+requests = "^2.28.1"
 
 [tool.poetry.dev-dependencies]
 
