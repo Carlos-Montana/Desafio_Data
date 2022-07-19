@@ -118,4 +118,5 @@ A la hora de evaluar tu challenge, tendremos en cuenta una serie de criterios qu
 - Comentarios oportunos y docstrings descriptivos.
 - Manejo de excepciones preciso, no azaroso.
 - La estructura del proyecto debe ser limpia y ordenada.
-- El código deberá estar modularizado en componentes reutilizables e independientes.
+- El código deberá estar modularizado en componentes reutilizables e independientes.<br>
+[Volver](README.md)
