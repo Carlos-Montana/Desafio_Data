@@ -12,6 +12,9 @@ Todas las librerias utilizadas estan especificadas en pyproject.toml o requireme
 - ### El archivo .env.ex quitarle el .ex para poder utilizarlo
     Este archivo contiene todas las configuraciones necesarias para que corran los scripts
 
+- ### Logs y Excepciones
+    Todos los logs capturados se guardan en la un fichero .log.
+
 - ### Entorno vitual (poetry)
     Para poder desplegar el proyecto en un entorno vitual con todas las librerias correctamente, usaremos en este caso poetry.<br>
     Para instalar poetry use `pip install poetry` <br>

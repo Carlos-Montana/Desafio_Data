@@ -18,4 +18,4 @@ TABLE_NAMES = ['tabla_raw', 'tabla_categoria', 'tabla_fuente', 'tabla_p_c', 'tab
 
 #Root principal donde se encuentan los scripts,
 #desde aca se manipula la rutan donde se encuentran los scripts sql
-ROOT_DIR = Path(Path.cwd(), 'challenger_data')
+ROOT_DIR = Path(Path.cwd(), 'desafio_data')

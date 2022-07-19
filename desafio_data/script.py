@@ -21,9 +21,10 @@ def crear_tablas() -> None:
             for tabla in TABLE_NAMES:
                 with open(Path(root_scripts, tabla+'.sql'), 'r', encoding='utf-8') as archivo:
                     engine.execute(archivo.read())
+            logging.info('Tablas creadas correctamente')
         except OSError:
             logging.info('No se puedo abrir archivo')
-    logging.info('Tablas creadas correctamente')
+
 #Llamando a la funcion que crea las tablas.
 if __name__ == "__main__":
     #Pregunto si existe el archivo, no es la ruta adecuada y tiene que subir un nivel
