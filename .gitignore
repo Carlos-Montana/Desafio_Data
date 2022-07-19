@@ -1,0 +1,6 @@
+.env
+.log
+tests/
+desafio_data/bibliotecas/
+desafio_data/cines/
+desafio_data/museos/
