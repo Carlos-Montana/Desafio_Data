@@ -1,1 +1,8 @@
 2022-07-19 16:14:18,536 root  INFO  Tablas creadas correctamente
+2022-07-19 16:26:29,033 root  INFO  Comenzando ...
+2022-07-19 16:26:29,033 root  INFO  Extrayendo
+2022-07-19 16:26:31,019 root  INFO  Termino el extract satisfatoriamente
+2022-07-19 16:26:31,019 root  INFO  Transformando
+2022-07-19 16:26:31,082 root  INFO  Transformación terminada satisfactoriamente
+2022-07-19 16:26:31,082 root  INFO  Cargando
+2022-07-19 16:26:32,082 root  INFO  Carga teminada satisfactoriamente
